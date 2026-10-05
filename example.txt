@@ -1,0 +1,6 @@
+GitHub Assignment 
+
+This file is created to demonstrate file management in GitHub.
+
+Purpose:
+The purpose of this file is to practice uploading, editing, and managing files in a GitHub repository. 
